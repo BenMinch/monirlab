@@ -25,4 +25,6 @@ main:
   - name: Join the Lab
     url: join
     weight: 70
-   
+   - name: Test
+    url: join
+    weight: 80
