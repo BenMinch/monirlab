@@ -1,6 +1,5 @@
 ---
-widget: blank
-headless: false
+headless: True
 weight: 20
 title: About the Lab
 ---
