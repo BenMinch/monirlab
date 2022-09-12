@@ -3,7 +3,7 @@
 title: Benjamin Minch
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Ph.D. Student
@@ -17,9 +17,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Viral ecology
+  - Viral Bioinformatics & Genomics
 
 education:
   courses:
@@ -65,7 +64,5 @@ user_groups:
   - Researchers
 ---
 
-Scooby doo is my favorite movie
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Benjamin Minch started his Ph.D. in the Monir lab in fall 2022. In his free time he enjoys snorkeling, playing board games, and volleyball. He also happens to be a huge Lord of the Rings fan. 
 
