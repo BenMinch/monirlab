@@ -1,5 +1,5 @@
 ---
-title: Join the Lab
+title: Lab News
 banner:
   image: rsmas.jpg 
   caption:
