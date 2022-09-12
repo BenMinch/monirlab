@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. student.
+bio:
 
 interests:
   - Viral ecology
