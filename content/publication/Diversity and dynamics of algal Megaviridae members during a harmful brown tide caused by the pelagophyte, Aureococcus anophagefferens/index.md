@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://academic.oup.com/femsec/article-pdf/92/5/fiw058/16735949/fiw058.pdf
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
