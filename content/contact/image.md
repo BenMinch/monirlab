@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: orcabuild.png
+    image: rsmas_dark.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
