@@ -23,26 +23,4 @@ content:
         color: '#666'
         brightness: 0.7
         media: algal.jpg
-    - title: Endogenous viral elements
-      content: 'The viral elements incoporated inside the genome of eukaryotes'
-      align: center
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: endogenous.jpg
-      link:
-        text: Learn More
-        url: ../projects/Endogenous_virus/
-    - title: Giant Virus Ecology
-      content: 'Looking at temporal and seasonal variation in Giant virus populations'
-      align: center
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: monterrey.jpg
-      link:
-        text: Learn More
-        url: ../projects/Endogenous_virus/
 ---
