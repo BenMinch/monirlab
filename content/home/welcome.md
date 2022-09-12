@@ -42,7 +42,7 @@ content:
         brightness: 0.7
         media: phyto.jpg
         fit: cover
-    - title: University of Miami Rosenstiel School
+    - title: Rosenstiel School at the University of Miami
       content: 'Check out the world-class campus on the Virginia Key'
       align: center
       background:
