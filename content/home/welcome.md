@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: Monir Lab
-      content: 'Microbial ecology and evolution at University of Miami Rosenstiel'
+    - title: Marine Microbial Ecology and Evolution
+      content: 'Rosenstiel School of Marine, Atmospheric, and Earth Science'
       align: center
       background:
         position: center
