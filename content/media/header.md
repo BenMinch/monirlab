@@ -17,7 +17,7 @@ design:
   columns: '1'
   background:
     height: '800px'
-    image: rsmas_dark2.jpg
+    image: algal.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
