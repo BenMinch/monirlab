@@ -1,26 +1,30 @@
 ---
-widget: slider
-weight: 1
+widget: blank
+
+# Activate this widget? true/false
 active: true
+
+# This file represents a page section.
 headless: true
 
-design:
-  # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: true
-  # Automatically transition through slides?
-  loop: false
-  # Duration of transition between slides (in ms)
-  interval: 2000
+# Order that this section appears on the page.
+weight: 10
 
-content:
-  slides:
-    - title: Areas of Research
-      content: Take a look at what we're working on...
-      align: center
-      background:
-        position: center
-        color: '#666'
-        brightness: 0.7
-        media: algal.jpg
+title: Areas of Research
+subtitle: Take a look at what we're working on...
+
+design:
+  columns: '1'
+  background:
+    image: algal.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
+  spacing:
+    padding: ['20px', '0', '20px', '0']
+advanced:
+  css_class: fullscreen
+
 ---
