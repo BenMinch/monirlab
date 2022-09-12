@@ -16,7 +16,7 @@ subtitle: Take a look at what we're working on...
 design:
   columns: '1'
   background:
-    height: '400px'
+    height: '800px'
     image: algal.jpg
     image_darken: 0
     image_parallax: false
