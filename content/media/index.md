@@ -1,5 +1,9 @@
 ---
-weight: 20
+title: Media
+
+banner: 
+  image: rsmas_dark2.jpg
+  caption:
 
 ---
 
