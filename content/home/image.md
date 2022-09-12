@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title:
-subtitle:
+title: Thanks for visiting the lab page!
+subtitle: Hope you come again soon
 
 design:
   columns: '1'
