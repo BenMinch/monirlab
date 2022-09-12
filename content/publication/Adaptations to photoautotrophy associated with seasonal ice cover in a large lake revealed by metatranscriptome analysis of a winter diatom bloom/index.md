@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/profile/Steven-Wilhelm/publication/305924941_Adaptations_to_photoautotrophy_associated_with_seasonal_ice_cover_in_a_large_lake_revealed_by_metatranscriptome_analysis_of_a_winter_diatom_bloom/links/57a9cc9c08ae0440337baa74/Adaptations-to-photoautotrophy-associated-with-seasonal-ice-cover-in-a-large-lake-revealed-by-metatranscriptome-analysis-of-a-winter-diatom-bloom.pdf
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
