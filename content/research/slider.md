@@ -16,6 +16,7 @@ subtitle: Take a look at what we're working on...
 design:
   columns: '1'
   background:
+    height: '400px'
     image: algal.jpg
     image_darken: 0
     image_parallax: false
@@ -24,7 +25,4 @@ design:
     text_color_light: true
   spacing:
     padding: ['20px', '0', '20px', '0']
-advanced:
-  css_class: fullscreen
-
 ---
