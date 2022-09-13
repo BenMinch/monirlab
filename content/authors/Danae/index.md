@@ -17,9 +17,9 @@ organizations:
 bio: Danae.
 
 interests:
-  - Coral - virus interactions.
-  - Eukaryotic and viral genomics.
-  - Endogenous viruses.
+  - Coral - virus interactions
+  - Eukaryotic and viral genomics
+  - Endogenous viruses
 
 education:
   courses:
