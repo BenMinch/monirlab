@@ -8,7 +8,7 @@ banner:
 ---
 
 <!--more-->
- Our work has been covered by various different media outlets over the past few years, here are some of the features.
+ Our work has been covered by various different media outlets over the past few years. Some of the features are listed here:
  
  [Giant Viruses Can Integrate into the Genomes of Their Hosts](https://www.the-scientist.com/news-opinion/giant-viruses-can-integrate-into-the-genomes-of-their-hosts-68168) by Amanda Heidt, The Scientist
  
