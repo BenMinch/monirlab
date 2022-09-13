@@ -17,8 +17,9 @@ organizations:
 bio:
 
 interests:
-  - Viral ecology
-  - Viral Bioinformatics & Genomics
+  - Ecology of marine viruses
+  - Bioinformatics and genomics
+  - Giant virus - host interactions
 
 education:
   courses:
@@ -55,5 +56,5 @@ user_groups:
   - Researchers
 ---
 
-Benjamin Minch started his Ph.D. in the Monir lab in fall 2022. In his free time he enjoys snorkeling, playing board games, and volleyball. He also happens to be a huge Lord of the Rings fan. 
+Benjamin Minch started his Ph.D. in the Monir lab in fall 2022. He will study the ecological strategies of giant viruses in the marine environment, along with gauging their impact on the microbial food web. In his free time he enjoys snorkeling, playing board games, and volleyball. He also happens to be a huge Lord of the Rings fan. 
 
