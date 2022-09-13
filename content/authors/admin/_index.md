@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Originally from Bangladesh, a small country from South Asia, Monir completed his Ph.D. at the University of Tennessee, Knoxville and performed postdoctoral research at the Monterey Bay Aquarium Research Institute (MBARI) and Virginia Tech. His broad research interests include biotic interactions in the marine microbial realm, and ecophysiology of phytoplankton.
+bio: Cat Dad.
 
 education:
   courses:
@@ -60,6 +60,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Originally from Bangladesh, a small country from South Asia, Monir completed his Ph.D. at the University of Tennessee, Knoxville and performed postdoctoral research at the Monterey Bay Aquarium Research Institute (MBARI) and Virginia Tech. His broad research interests include biotic interactions in the marine microbial realm, and ecophysiology of phytoplankton.
