@@ -61,3 +61,5 @@ user_groups:
 ---
 
 Originally from Bangladesh, a small country from South Asia, Monir completed his Ph.D. at the University of Tennessee, Knoxville and performed postdoctoral research at the Monterey Bay Aquarium Research Institute (MBARI) and Virginia Tech. His broad research interests include biotic interactions in the marine microbial realm, and ecophysiology of phytoplankton.
+
+Apart from science, Monir's favorite activities are photography, traveling and making friends with strangers.
