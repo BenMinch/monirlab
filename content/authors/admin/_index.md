@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammad Moniruzzaman
+title: Mohammad 'Monir' Moniruzzaman
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,24 +14,19 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include giant virus ecology.
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: Originally from Bangladesh, a small country from South Asia, Monir completed his Ph.D. at the University of Tennessee, Knoxville and performed postdoctoral research at the Monterey Bay Aquarium Research Institute (MBARI) and Virginia Tech. His broad research interests include biotic interactions in the marine microbial realm, and ecophysiology of phytoplankton.
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Microbiology
+      institution: University of Tennessee, Knoxville
+      year: 2016
+    - course: MS in Microbiology
+      institution: Dhaka Univeristy, Bangladesh
       year: 2008
+    - course: BSc in Microbiology
+      institution: Dhaka University, Bangladesh
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
