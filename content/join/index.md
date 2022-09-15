@@ -7,6 +7,7 @@ title: Join the Lab
 
 We are currently accepting new undergrad, Masters, Ph.D., and Postdoc applicants to our lab. If you'd like to join, reach out to us on the contact page. 
 <br>
+
 <b>Open position for a postdoctoral researcher</b>
 ----
 Our lab is looking for a postdoctoral research associate to study the ecology and evolution of marine giant viruses. As ubiquitous and highly diverse members of the marine microbial community, giant viruses represent an emerging player in the marine food web and global biogeochemistry. We are looking for a scientist passionate about studying these fascinating viruses using laboratory host-virus systems, field sampling and computational biology approaches.<br>
