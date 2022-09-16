@@ -13,4 +13,3 @@ We study ecology and evolution of marine microorganisms and viruses through a va
 <br>
 Interested in joining our team? [contact us](https://silly-rabanadas-868f73.netlify.app/contact/).
 Test
-
