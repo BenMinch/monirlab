@@ -1,5 +1,10 @@
+---
+headless: False
+weight: 20
+title: About the Lab
+---
 <head>
-  <!-- Google tag (gtag.js) -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-DDD7MZ4RB7"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -9,11 +14,6 @@
   gtag('config', 'G-DDD7MZ4RB7');
 </script>
   </head>
----
-headless: True
-weight: 20
-title: About the Lab
----
 <!--more-->
 We study ecology and evolution of marine microorganisms and viruses through a variety of field, lab, and bioinformatic approaches. The overarching goal of our research is to understand how interactions of marine microbes with diverse biotic and abiotic factors influence the marine food web and biogeochemistry. Some of our current research areas include:<br>
 <br>
