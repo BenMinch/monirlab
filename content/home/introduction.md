@@ -9,6 +9,7 @@
 
   gtag('config', 'G-DDD7MZ4RB7');
 </script>
+</head>
 ---
 headless: False
 weight: 20
