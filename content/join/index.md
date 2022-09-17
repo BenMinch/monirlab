@@ -19,3 +19,7 @@ Researchers with some expertise in the following areas should consider submittin
 Please note that these are not strict requirements. We are flexible regarding the skills you have and the research questions you want to pursue. If you are passionate about giant viruses and open to learn new tools/techniques, you should apply!<br>
 
 Applicants should send a cover letter outlining their qualifications, a CV and the name and contact information of three references to Dr. Mohammad Moniruzzaman (m.monir@miami.edu) by November 15th, 2022.
+
+<b>Open position for a Ph.D. student </b>
+----
+We are currently looking for a Ph.D. student who will start in Fall 2023. The student will pursue research in the molecular and ecological aspects of giant virus-host interactions through laboratory research, field work and bioinformatic approaches. Please reach out to the Principal Investigator (m.monir@miami.edu) if you are interested with a CV and a short paragraph detailing your interest. Note that the application deadline to the Rosenstiel School is January 1, 2023, but you are encouraged to apply by December 1, 2022 for full consideration.
