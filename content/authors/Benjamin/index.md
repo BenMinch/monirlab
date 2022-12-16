@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Benjamin Minch
+title: Mohammad 'Monir' Moniruzzaman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Assistant Professor of Marine Biology and Ecology
 
 # Organizations/Affiliations
 organizations:
@@ -14,33 +14,34 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-
-interests:
-  - Ecology of marine viruses
-  - Bioinformatics and genomics
-  - Giant virus - host interactions
+bio: Monir
 
 education:
   courses:
-    - course: BSc in Biological Science
-      institution: Biola University
-      year: 2021
+    - course: PhD in Microbiology
+      institution: University of Tennessee, Knoxville
+      year: 2016
+    - course: MS in Microbiology
+      institution: Dhaka Univeristy, Bangladesh
+      year: 2008
+    - course: BSc in Microbiology
+      institution: Dhaka University, Bangladesh
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'bsm122@miami.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Benjamin_Minch
+    link: https://twitter.com/giant_virus
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=2JXF6oUAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/BenMinch
+    link: https://github.com/mmzvt
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,13 +49,17 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'm.monir@miami.edu'
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Principal Investigator
 ---
 
-Benjamin Minch started his Ph.D. in the Monir lab in fall 2022. He will study the ecological strategies of giant viruses in the marine environment, along with gauging their impact on the microbial food web. In his free time he enjoys snorkeling, playing board games, and volleyball. He also happens to be a huge Lord of the Rings fan. Contact at bsm122@miami.edu . 
+Originally from Bangladesh, a small country from South Asia, Monir completed his Ph.D. at the University of Tennessee, Knoxville and performed postdoctoral research at the Monterey Bay Aquarium Research Institute (MBARI) and Virginia Tech. His broad research interests include biotic interactions in the marine microbial realm, and ecophysiology of phytoplankton.
 
+Apart from science, Monir's favorite activities are photography, traveling and making friends with strangers.
