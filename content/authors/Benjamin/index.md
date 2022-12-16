@@ -6,7 +6,7 @@ title: Benjamin Minch
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
