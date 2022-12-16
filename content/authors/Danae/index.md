@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Danae.
+bio:
 
 interests:
   - Coral - virus interactions
@@ -50,7 +50,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Ph.D. Student
 ---
 
 Danae started as a M.S. student in Monir Lab in July 2022. She is currently studying the role of endogeneous viruses on the genome evolution of key animal and protist species in the aquatic environments. She enjoyes going to the beach and exploring tide pools.
