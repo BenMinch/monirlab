@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Student
+  - Grad Students
 ---
 
 Benjamin Minch started his Ph.D. in the Monir lab in fall 2022. He will study the ecological strategies of giant viruses in the marine environment, along with gauging their impact on the microbial food web. In his free time he enjoys snorkeling, playing board games, and volleyball. He also happens to be a huge Lord of the Rings fan. Contact at bsm122@miami.edu . 
