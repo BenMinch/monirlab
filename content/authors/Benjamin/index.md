@@ -14,7 +14,7 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ben
+bio:
 
 interests:
   - Ecology of marine viruses
