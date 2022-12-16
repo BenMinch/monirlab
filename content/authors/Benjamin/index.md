@@ -18,9 +18,15 @@ bio: Benjamin
 
 education:
   courses:
-    - course: BS in Biology
-      institution: Biola University
-      year: 2021
+    - course: PhD in Microbiology
+      institution: University of Tennessee, Knoxville
+      year: 2016
+    - course: MS in Microbiology
+      institution: Dhaka Univeristy, Bangladesh
+      year: 2008
+    - course: BSc in Microbiology
+      institution: Dhaka University, Bangladesh
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
