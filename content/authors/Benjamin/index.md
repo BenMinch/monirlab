@@ -6,7 +6,7 @@ title: Benjamin Minch
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Assistant Professor of Marine Biology and Ecology
 
 # Organizations/Affiliations
 organizations:
