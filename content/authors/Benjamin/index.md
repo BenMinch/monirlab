@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mohammad 'Monir' Moniruzzaman
+title: Benjamin Minch
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor of Marine Biology and Ecology
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -14,19 +14,13 @@ organizations:
     url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Monir
+bio: Benjamin
 
 education:
   courses:
-    - course: PhD in Microbiology
-      institution: University of Tennessee, Knoxville
-      year: 2016
-    - course: MS in Microbiology
-      institution: Dhaka Univeristy, Bangladesh
-      year: 2008
-    - course: BSc in Microbiology
-      institution: Dhaka University, Bangladesh
-      year: 2006
+    - course: BS in Biology
+      institution: Biola University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
