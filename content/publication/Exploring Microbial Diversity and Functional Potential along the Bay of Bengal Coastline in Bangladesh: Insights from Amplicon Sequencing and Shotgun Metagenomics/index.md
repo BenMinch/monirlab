@@ -4,7 +4,7 @@ authors:
   - Salma Akter
   - M Shaminur Rahman
   - Hazrat Ali
-  - Benjamin Minch
+  - Benjamin S Minch
   - Kaniz Mehzabin
   - M Moradul Siddique
   - Syed M Galib
