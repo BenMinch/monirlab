@@ -38,7 +38,6 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
-  persons: '/persons/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
@@ -55,7 +54,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: persons
+  author: authors
 markup:
   _merge: deep
 related:
