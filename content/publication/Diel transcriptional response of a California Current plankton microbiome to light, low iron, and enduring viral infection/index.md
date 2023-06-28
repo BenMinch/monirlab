@@ -1,6 +1,6 @@
 ---
 title: 'Diel transcriptional response of a California Current plankton microbiome to light, low iron, and enduring viral infection'
-authors:
+persons:
   - BC Kolody
   - JP McCrow
   - L Zeigler Allen
