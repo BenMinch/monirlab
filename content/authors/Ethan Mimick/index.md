@@ -6,7 +6,7 @@ title: Ethan Mimick
 superuser: true
 
 # Role/position
-role: M.S. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
