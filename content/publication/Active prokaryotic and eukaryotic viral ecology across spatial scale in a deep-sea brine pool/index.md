@@ -19,7 +19,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*ISME Communications, *'
+publication: '*ISME Communications*'
 publication_short: ''
 
 abstract: 'Deep-sea brine pools represent rare, extreme environments, providing unique insight into the limits of life on Earth, and by analogy, the plausibility of life beyond it. A distinguishing feature of many brine pools is presence of thick microbial mats which develop at the brine-seawater interface. While these bacterial and archaeal communities have received moderate attention, viruses and their host interactions in these environments remain underexplored. To bridge this knowledge gap, we leveraged metagenomic and metatranscriptomic data from three distinct zones within the NEOM brine pool system (Gulf of Aqaba) to reveal the active viral ecology around the pools. We report a remarkable diversity and activity of viruses infecting microbial hosts in this environment, including giant viruses, RNA viruses, jumbo phages, and polinton-like viruses. Many of these form distinct clades – suggesting presence of untapped viral diversity in this ecosystem. Brine pool viral communities exhibit zone-specific differences in infection strategy - with lysogeny dominating the bacterial mat further away from the pool’s center. We linked viruses to metabolically important prokaryotes - including association between a jumbo phage and a key manganese-oxidizing and arsenic-metabolizing bacterium. These foundational results illuminate the role of viruses in modulating brine pool microbial communities and biogeochemistry through revealing novel viral diversity, host associations, and spatial heterogeneity in viral dynamics.'
