@@ -25,4 +25,7 @@ main:
   - name: Join the Lab
     url: join
     weight: 70
+  - name: Resources and Outreach
+    url: resources
+    weight: 80
  
