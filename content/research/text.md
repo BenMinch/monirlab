@@ -7,8 +7,9 @@ weight: 20
 
 In Monir lab, we employ lab experiments, field-research and bioinformatic approaches to pursue several major research directions:
 
-![screen reader text](red_tide.jpg)
-1. Algal blooms as ecological laboratories to study the dynamics of giant virus – host interactions: Previous research has demonstrated that giant viruses are a key component of several algal blooms, which includes ecologically devastating brown tide blooms and massive blooms that are visible from space. Our lab aims to generate a system-level understanding of the contribution of giant viruses in modulating such algal blooms and how they influence the dynamics of key protist lineages in marine systems. To this end, our lab will study several distinct algal blooms that have appeared recurrently at the US coasts for decades – specifically, the red tide in the Gulf of Mexico caused by toxic dinoflagellate Karenia brevis, and the brown tide blooms in the east coast by pelagophyte Aureococcus anophagefferens.
+![screen reader text](schematic.jpg)
+<br>
+1. Given that giant viruses are highly diverse and extremely common in both mairne and freshwater ecosystems, it is important to determine the ecological roles of these viruses.  A major focus of the lab is to determine the role of giant viruses within the microbial community and how interactions of these viruses with diverse unicellular eukaryotes drive their population dynamics and role in the food web. To address these questions, we integrate multi-omics datasets from time-series studies in coastal and open ocean environments.
 
 ![screen reader text](aureococcus_virus_sem.jpg)
 <br>
@@ -17,3 +18,6 @@ In Monir lab, we employ lab experiments, field-research and bioinformatic approa
 ![screen reader text](GEVE_plot.jpg)
 <br>
 3. Assessing the impact of endogenous giant viruses on the physiology and genome evolution of their eukaryotic hosts: Endogenous viral elements (EVEs)—viral sequences that integrate into host genomes and eventually become heritable as host alleles—can spur host genome rearrangement, functional innovations, and mediate horizontal gene transfer (HGT). In our recent work, we have identified widespread endogenization of NCLDV genomes in diverse green algae. These Giant Endogenous Viral Elements (GEVEs) are several hundred kilobases long and contribute up to 10% of the total genes in some of the chlorophyte genomes in which they are integrated. In future work, we plan to develop a foundational understanding of the role endogenous NCLDVs play in the genome evolution, physiology and phenotypic diversity of protists
+
+![screen reader text](red_tide.jpg)
+4. Algal blooms as ecological laboratories to study the dynamics of giant virus – host interactions: Previous research has demonstrated that giant viruses are a key component of several algal blooms, which includes ecologically devastating brown tide blooms and massive blooms that are visible from space. Our lab aims to generate a system-level understanding of the contribution of giant viruses in modulating such algal blooms and how they influence the dynamics of key protist lineages in marine systems. To this end, our lab will study several distinct algal blooms that have appeared recurrently at the US coasts for decades – specifically, the red tide in the Gulf of Mexico caused by toxic dinoflagellate Karenia brevis, and the brown tide blooms in the east coast by pelagophyte Aureococcus anophagefferens.
