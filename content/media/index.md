@@ -13,6 +13,8 @@ banner:
  [Flesh-eating bacteria cases rise in Florida after 2024 hurricanes](https://www.nationalgeographic.com/science/article/flesh-eating-vibrio-bacteria-florida) National Geographic
 
  [Matters Microbial Podcast](https://www.youtube.com/watch?v=FWutndOo9aw) by MicrobeTV
+
+ [Monir Moniruzzaman Studies the Secrets of Giant Viruses](https://www.the-scientist.com/monir-moniruzzaman-studies-the-secrets-of-giant-viruses-70865) by James Gaines, The Scientist
  
  [Giant Viruses Can Integrate into the Genomes of Their Hosts](https://www.the-scientist.com/news-opinion/giant-viruses-can-integrate-into-the-genomes-of-their-hosts-68168) by Amanda Heidt, The Scientist
  
