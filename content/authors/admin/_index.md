@@ -38,7 +38,7 @@ social:
     link: https://twitter.com/giant_virus
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=2JXF6oUAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?hl=en&user=8GD4W6QAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/mmzvt
