@@ -10,6 +10,8 @@ banner:
 <!--more-->
  Our work has been covered by various different media outlets over the past few years. Some of the features are listed here:
 
+ [Flesh-eating bacteria cases rise in FLorida after 2024 hurricanes](https://www.nationalgeographic.com/science/article/flesh-eating-vibrio-bacteria-florida) National Geographic
+
  [Matters Microbial Podcast](https://www.youtube.com/watch?v=FWutndOo9aw) by MicrobeTV
  
  [Giant Viruses Can Integrate into the Genomes of Their Hosts](https://www.the-scientist.com/news-opinion/giant-viruses-can-integrate-into-the-genomes-of-their-hosts-68168) by Amanda Heidt, The Scientist
