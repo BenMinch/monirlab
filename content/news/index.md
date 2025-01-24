@@ -15,6 +15,8 @@ banner:
 
 **August 2024**: We welcome Ethan Mimick to our team as a Ph.D. student!
 
+**January 2023**: Monir's research was featured in the [Scientist](https://www.the-scientist.com/monir-moniruzzaman-studies-the-secrets-of-giant-viruses-70865).
+
 **August 2022** : We welcome [Benjamin Minch](https://silly-rabanadas-868f73.netlify.app/author/benjamin-minch/) to our team as a Ph.D. student!
 
 **July 2022** : We welcome [Danae Stephens](https://silly-rabanadas-868f73.netlify.app/author/danae-stephens/) to our team as a Ph.D. student!
