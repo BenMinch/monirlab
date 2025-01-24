@@ -16,6 +16,7 @@ Our lab developed an open-source tool for giant virus recovery and annotation fr
 <br>
 
 **Outreach activities**
+<br>
 Our lab is committed to local outreach and education of students on the often-overlooked topic of marine microbiology. Below are a few examples of lectures students have given at various high schools and local conferences. If you would like to have someone from our lab present to your class or event (either virtually or in person) feel free to reach out!
 <br>
 
