@@ -7,7 +7,7 @@ weight: 20
 
 In Monir lab, we employ lab experiments, field-research and bioinformatic approaches to pursue several major research directions:
 
-![screen reader text](schematic.jpg)
+![screen reader text](schematic.png)
 <br>
 1. Given that giant viruses are highly diverse and extremely common in both mairne and freshwater ecosystems, it is important to determine the ecological roles of these viruses.  A major focus of the lab is to determine the role of giant viruses within the microbial community and how interactions of these viruses with diverse unicellular eukaryotes drive their population dynamics and role in the food web. To address these questions, we integrate multi-omics datasets from time-series studies in coastal and open ocean environments.
 
