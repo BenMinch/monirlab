@@ -21,3 +21,6 @@ In Monir lab, we employ lab experiments, field-research and bioinformatic approa
 
 ![screen reader text](red_tide.jpg)
 4. Algal blooms as ecological laboratories to study the dynamics of giant virus – host interactions: Previous research has demonstrated that giant viruses are a key component of several algal blooms, which includes ecologically devastating brown tide blooms and massive blooms that are visible from space. Our lab aims to generate a system-level understanding of the contribution of giant viruses in modulating such algal blooms and how they influence the dynamics of key protist lineages in marine systems. To this end, our lab will study several distinct algal blooms that have appeared recurrently at the US coasts for decades – specifically, the red tide in the Gulf of Mexico caused by toxic dinoflagellate Karenia brevis, and the brown tide blooms in the east coast by pelagophyte Aureococcus anophagefferens.
+
+![screen reader text](BEREN_pipeline.png)
+5. The field of giant viruses lags behind that of phages and human viruses partially due to the lack of bioinformatic tools to identify and investigate giant viruses. We aim to alleviate this gap through the creation of specific giant virus bioinformatic tools to find new viruses in metagenomic datasets and classify host-virus pairs. 
