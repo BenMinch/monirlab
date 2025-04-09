@@ -6,7 +6,7 @@ title: Sarina Baratta
 superuser: true
 
 # Role/position
-role: MPS Student
+role: MS Student
 
 # Organizations/Affiliations
 organizations:
