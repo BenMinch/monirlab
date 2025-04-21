@@ -7,6 +7,10 @@ banner:
 
 <!--more-->
 
+![PXL_20250418_180241526-COLLAGE](https://github.com/user-attachments/assets/bfc05a90-59be-4732-b040-a2657f4c6181)
+
+**April 2025**: Undergraduates Vivienne Clarke, Zahra Faghihi, and Jetty Porter presented their senior theses at the Rosenstiel symposium.
+
 **November 2024**: We welcome Salma Akter as a visiting Fullbright Scholar from Bangladesh.
 
 **September 2024** : Congratulations! Sydney Schulz successfully defended her M.S. thesis on endogenous giant viruses in polar microeukaryotes!
