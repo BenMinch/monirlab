@@ -6,6 +6,8 @@ banner:
 ---
 
 <!--more-->
+![PXL_20250605_125146579-COLLAGE](https://github.com/user-attachments/assets/475766c5-a02e-4882-ba3a-315c76ca7577)
+**June 2025**: Ph.D. Students Benjamin Minch and Ethan Mimick conduct a 2-week daily sampling campaign in Stuart, Florida.
 
 ![PXL_20250418_180241526-COLLAGE](https://github.com/user-attachments/assets/bfc05a90-59be-4732-b040-a2657f4c6181)
 
