@@ -10,9 +10,9 @@ banner:
 <!--more-->
  Our work has been covered by various media outlets over the past few years. Some of the features are listed here:
 
- [Scientists discover hundreds of mysterious giant VIRUSES lurking in the ocean](https://www.dailymail.co.uk/sciencetech/article-14816775/hundreds-mysterious-giant-VIRUSES-lurking-ocean.html) by Jonathan Chadwick, DailyMail UK
+ [Scientists discover hundreds of mysterious giant viruses lurking in the ocean](https://www.dailymail.co.uk/sciencetech/article-14816775/hundreds-mysterious-giant-VIRUSES-lurking-ocean.html) by Jonathan Chadwick, DailyMail UK
  
- [Monir featured on the Science Friday podcast taking about giant viruses](https://www.sciencefriday.com/segments/killer-whale-tools-giant-ocean-viruses/#segment-transcript)
+ [Monir featured on the Science Friday podcast talking about giant viruses](https://www.sciencefriday.com/segments/killer-whale-tools-giant-ocean-viruses/#segment-transcript)
 
  [Flesh-eating bacteria cases rise in Florida after 2024 hurricanes](https://www.nationalgeographic.com/science/article/flesh-eating-vibrio-bacteria-florida) National Geographic
 
