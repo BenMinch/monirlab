@@ -15,7 +15,10 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
-
+interests:
+  - Mangrove mud
+  - Bad smells and mosquitoes
+  - Boats and scuba diving
 education:
   courses:
 # Social/Academic Networking
