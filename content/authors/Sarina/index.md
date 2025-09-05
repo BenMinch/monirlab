@@ -16,9 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 interests:
-  - Mangrove mud
-  - Bad smells and mosquitoes
-  - Boats and scuba diving
+  - Mangrove microbial ecology
+  - Field sampling
+  - Scientific diving and boating
 education:
   courses:
 # Social/Academic Networking
