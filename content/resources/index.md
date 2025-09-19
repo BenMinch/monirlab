@@ -15,7 +15,8 @@ Check out some of the resources that our lab has developed and outreach we have 
 Our lab developed an open-source tool for giant virus recovery and annotation from metagenomes. On the gitlab page [here](https://gitlab.com/benminch1/BEREN) we have tutorials as test datasets to use the tool for yourself.
 <br>
 
-<b>Intro to Metagenomics Workshop</b>
+<b>Introductory Metagenomics Workshop</b>
+----
 <br>
 Our lab hosts metagenomics workshops on the University of Miami Rosenstiel campus. Here is part of the latest workshop hosted in September 2025. Click <a href="https://www.youtube.com/watch?v=Mlp0dE7sQAo" target="_blank" rel="noopener noreferrer">here</a> to watch it.
 <br>
