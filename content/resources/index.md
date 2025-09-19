@@ -18,9 +18,9 @@ Our lab developed an open-source tool for giant virus recovery and annotation fr
 <b>Intro to Metagenomics Workshop</b>
 ----
 <br>
-Our lab hosts metagenomics workshops on the University of Miami Rosenstiel campus. Here is part of the latest workshop hosted in September 2025.
+Our lab hosts metagenomics workshops on the University of Miami Rosenstiel campus. Here is part of the latest workshop hosted in September 2025. Click [here](https://www.youtube.com/watch?v=Mlp0dE7sQAo) to watch it.
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mlp0dE7sQAo?si=4yvjQePaliyUwjID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <b>Outreach activities</b>
 ----
