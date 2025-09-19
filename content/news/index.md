@@ -5,7 +5,9 @@ banner:
   caption:
 ---
 
-<!--more-->
+![mangrove](https://github.com/user-attachments/assets/3d266ced-28b0-4f5d-8907-b9b2e8ace915)
+**September 2025**: M.S. student Sarina Baratta starts her project sampling microbiomes of local Florida mangrove ecosystems.
+
 ![PXL_20250605_125146579-COLLAGE](https://github.com/user-attachments/assets/475766c5-a02e-4882-ba3a-315c76ca7577)
 **June 2025**: Ph.D. Students Benjamin Minch and Ethan Mimick conduct a 2-week daily sampling campaign in Stuart, Florida.
 
