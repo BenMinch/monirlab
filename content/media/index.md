@@ -10,6 +10,9 @@ banner:
 <!--more-->
  Our work has been covered by various media outlets over the past few years. Some of the features are listed here:
 
+ [Genes from giant viruses help polar algae survive frigid waters and harsh sunlight](https://www.science.org/content/article/genes-giant-viruses-help-polar-algae-survive-frigid-waters-and-harsh-sun) by Amanda Heidt, Science.org
+ [Giant virus DNA may help polar algae survive harsh environments](https://phys.org/news/2026-03-giant-virus-dna-polar-algae.html) by Paul Arnold, Phys.org
+
  [Scientists discover hundreds of mysterious giant viruses lurking in the ocean](https://www.dailymail.co.uk/sciencetech/article-14816775/hundreds-mysterious-giant-VIRUSES-lurking-ocean.html) by Jonathan Chadwick, DailyMail UK
  
  [Monir featured on the Science Friday podcast talking about giant viruses](https://www.sciencefriday.com/segments/killer-whale-tools-giant-ocean-viruses/#segment-transcript)
