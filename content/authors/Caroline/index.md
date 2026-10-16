@@ -18,8 +18,7 @@ organizations:
 bio:
 
 interests:
-  - Marine Virus ecology
-  - Bioinformatics
+  - Viruses in Extreme Environments
 
 
 education:
