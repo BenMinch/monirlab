@@ -4,6 +4,11 @@ banner:
   image: rsmas.jpg 
   caption:
 ---
+**November 2026**: Congratulations to Ethan Mimick for winning the University of Miami IDSC fellowship. 
+
+**August 2026**: We welcome Caroline Hornfeck to the Monir lab as a new Ph.D. student!
+
+**March 2026**: Congratulations to Benjamin Minch for winning Best Presenter at both Rosenstiel Research Day and the Graduate Research Symposium.
 
 ![mangrove](https://github.com/user-attachments/assets/3d266ced-28b0-4f5d-8907-b9b2e8ace915)
 **September 2025**: M.S. student Sarina Baratta starts her project sampling microbiomes of local Florida mangrove ecosystems.
